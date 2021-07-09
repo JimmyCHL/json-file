@@ -1,0 +1,21 @@
+{
+	"cards": [{
+		"id": "1",
+		"name": "Dave",
+		"location": "usa",
+		"age": "26",
+		"followers": "180k",
+		"likes": "180k",
+		"photos": "180k",
+		"profileImage": "#"
+	}, {
+		"id": "2",
+		"name": "Anthony",
+		"location": "usa",
+		"age": "26",
+		"followers": "180k",
+		"likes": "180k",
+		"photos": "180k",
+		"profileImage": "#"
+	}]
+}
