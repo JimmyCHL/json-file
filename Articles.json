@@ -1,5 +1,4 @@
-{
-    "Articles": [{
+[{
             "id": 1,
             "path": "/path/1",
             "article": "Article1"
@@ -30,4 +29,4 @@
             "article": "Article6"
         }
     ]
-}
+
