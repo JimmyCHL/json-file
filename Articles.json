@@ -1,36 +1,36 @@
 [{
             "id": 1,
-            "path": "/path/1",
+            "path": "/blog/1",
             "article": "Article1",
             "Rank": "A"
         },
         {
             "id": 2,
-            "path": "/path/2",
+            "path": "/blog/2",
             "article": "Article2",
             "Rank": "B"
         },
         {
             "id": 3,
-            "path": "/path/3",
+            "path": "/blog/3",
             "article": "Article3",
             "Rank": "C"
         },
         {
             "id": 4,
-            "path": "/path/4",
+            "path": "/blog/4",
             "article": "Article4",
             "Rank": "D"
         },
         {
             "id": 5,
-            "path": "/path/5",
+            "path": "/blog/5",
             "article": "Article5",
             "Rank": "E"
         },
         {
             "id": 6,
-            "path": "/path/6",
+            "path": "/blog/6",
             "article": "Article6",
             "Rank": "F"
         }
